@@ -3,15 +3,15 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
-  <component name="MavenProjectsManager">
+  <component name="MPManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="NodePackageJsonFileManager">
+  <component name="NPJFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" />
+  <component name="PRManager" version="2" languageLevel="JDK_1_3" />
 </project>
