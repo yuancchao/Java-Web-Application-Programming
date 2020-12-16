@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
+  <component name="CLManager">
     <list default="true" id="82931f56-b89c-443b-b2e0-1465d3b21c64" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../exp8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exp8/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -11,7 +11,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
+  <component name="FEManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -95,7 +95,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RManager">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -135,7 +135,7 @@
   <component name="SvnConfiguration">
     <configuration />
   </component>
-  <component name="TaskManager">
+  <component name="TManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="82931f56-b89c-443b-b2e0-1465d3b21c64" name="Default Changelist" comment="" />
       <created>1545205629466</created>
@@ -146,10 +146,10 @@
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
+  <component name="TTManager">
     <option name="totallyTimeSpent" value="238000" />
   </component>
-  <component name="ToolWindowManager">
+  <component name="TWManager">
     <frame x="71" y="-7" width="1472" height="878" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
@@ -182,10 +182,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
+  <component name="TSGFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
+  <component name="EHManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
